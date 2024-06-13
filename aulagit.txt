@@ -1,0 +1,1 @@
+Comandos: git init, git config user.name e user.email, git status, git add, git commit -m.
