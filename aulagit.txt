@@ -23,3 +23,7 @@ git switch(Troca de branch -c cria e troca para branch criada)
 git merge "nova_branch"(mescla as branchs)
 
 alteração do arquivo
+
+git push -u origem main (manda direto para o remoto primeiro push)
+
+git push (usado para os demais)
