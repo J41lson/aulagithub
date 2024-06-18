@@ -19,3 +19,7 @@ git checkout (troca de branch e com -b cria e troca de branch)
 git branch(mostra as branchs com -d apaga a branch especificada e informando um nome ele cria uma branch)
 
 git switch(Troca de branch -c cria e troca para branch criada)
+
+git merge "nova_branch"(mescla as branchs)
+
+alteração do arquivo
