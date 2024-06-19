@@ -27,3 +27,7 @@ alteração do arquivo
 git push -u origem main (manda direto para o remoto primeiro push)
 
 git push (usado para os demais)
+
+git clone (nome do repositorio online) (.) para trazer sem a pasta
+
+git pull (tras alterações do repositorio online)
